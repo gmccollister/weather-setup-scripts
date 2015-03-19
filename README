@@ -13,6 +13,17 @@ To start a build of the kernel, source the environment file and do:
 
 For an example workflow for dealing with kernels please read http://www.slimlogic.co.uk/2011/05/openembeddedangstrom-kernel-workflow/
 
+To build an image, source the environment file and do:
+
+	$ . environment-ntel
+	$ MACHINE=qemux86-64 bitbake console-base-image
+
+See sources/meta-ntel/recipes-images/ntel/ for other available images.
+
+To run the image in qemu, do the following:
+
+	$ runqemu qemux86-64 kvm
+
 To update the metadata, do:
 
 	$ git pull

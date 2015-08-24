@@ -1,4 +1,4 @@
-bitbake,git://github.com/openembedded/bitbake.git,master,HEAD
+bitbake,git://github.com/openembedded/bitbake.git,1.26,HEAD
 meta-ntel,git://github.com/gmccollister/meta-ntel,master,HEAD
 meta-orion-bsp,git://github.com/gmccollister/meta-orion-bsp,master,HEAD
 meta-openembedded,git://github.com/openembedded/meta-oe.git,fido,HEAD

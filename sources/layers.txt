@@ -8,3 +8,4 @@ meta-qt5,git://github.com/meta-qt5/meta-qt5,fido,HEAD
 openembedded-core,git://github.com/openembedded/openembedded-core.git,fido,HEAD
 meta-copalp,git@git.novatech-llc.com:george.mccollister/meta-copalp.git,master,HEAD
 meta-orion,git@git.novatech-llc.com:george.mccollister/meta-orion.git,master,HEAD
+meta-selinux,git://git.yoctoproject.org/meta-selinux,fido,HEAD

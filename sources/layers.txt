@@ -1,11 +1,6 @@
 bitbake,git://github.com/openembedded/bitbake.git,master,HEAD
-meta-ntel,git://github.com/gmccollister/meta-ntel,master,HEAD
-meta-orion-bsp,git://github.com/gmccollister/meta-orion-bsp,master,HEAD
+meta-wel,git://github.com/gmccollister/meta-wel,master,HEAD
 meta-openembedded,git://github.com/openembedded/meta-openembedded.git,master,HEAD
-meta-intel,git://git.yoctoproject.org/meta-intel,master,HEAD
-meta-browser,git://github.com/OSSystems/meta-browser.git,master,HEAD
+meta-raspberrypi,git://git.yoctoproject.org/meta-raspberrypi,HEAD
 meta-qt5,git://github.com/meta-qt5/meta-qt5,master,HEAD
 openembedded-core,git://github.com/openembedded/openembedded-core.git,master,HEAD
-meta-copalp,git@git.novatech-llc.com:george.mccollister/meta-copalp.git,master,HEAD
-meta-orion,git@git.novatech-llc.com:george.mccollister/meta-orion.git,master,HEAD
-meta-selinux,git://git.yoctoproject.org/meta-selinux,master,HEAD
